@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <h1>@fujia/electron-antd-template</h1>
+  <h1>@fujia/electron-element-template</h1>
 </div>
 
 <div align="center">
 
-A template for electron build on antd.
+A template for electron build on element-ui.
 
 </div>
 
