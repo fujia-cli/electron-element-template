@@ -1,6 +1,6 @@
 {
   "name": "@fujia/electron-element-template",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A template for electron build on element-ui.",
   "keywords": [
     "electron",
